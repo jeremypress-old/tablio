@@ -1,0 +1,12 @@
+{
+  "name": "tablio",
+  "version": "0.1.0",
+  "description": "an overengineered side table",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sync": "scp -r ../tablio/ pi@raspberrypi.local:~/code/"
+  },
+  "author": "jeremypress",
+  "license": "ISC"
+}
